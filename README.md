@@ -39,18 +39,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/564x/64/88/0b/64880b9b0fe5b53bbe3f7280d262b33f.jpg"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaovSilva2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JoaovSilva2005/JoaovSilva2005/output/snake.svg" alt="Snake animation" />
+<img align="left" height="150" src="https://i.pinimg.com/564x/64/88/0b/64880b9b0fe5b53bbe3f7280d262b33f.jpg"  />
 
 ###
