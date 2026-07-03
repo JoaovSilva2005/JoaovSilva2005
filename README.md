@@ -1,27 +1,65 @@
-<h1 align="center">Hi 👋, I'm João Vitor da Silva</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h1 align="center">Hi, I'm Joao Vitor da Silva</h1>
+<h3 align="center">Software development student focused on full-stack, mobile, and practical product projects.</h3>
 
-- 🔭 I’m currently working on **Learning and building small projects in **Java, JavaFX, React, Node.js, and Python** while improving my coding skills.**
-
-- 🌱 I’m currently learning **- React (front-end development) - Flask and Streamlit (Python web apps) - Docker and Microservices - Basic Cybersecurity concepts - Git and version control**
-
-- 👯 I’m looking to collaborate on **Projects related to **web development, small desktop apps, and beginner-friendly open source projects**.**
-
-- 🤝 I’m looking for help with **Getting guidance on internships, best practices in software development, and security basics**
-
-- 👨‍💻 All of my projects are available at [https://github.com/JoaovSilva2005](https://github.com/JoaovSilva2005)
-
-- 💬 Ask me about **Java, JavaFX, Python, React, Node.js, APIs, Git, Maven**
-
-- 📫 How to reach me **joaovsilva2005@gmail.com**
-
-- ⚡ Fun fact **I love experimenting with programming projects and enjoy learning new technologies in my free time!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="mailto:joaovsilva2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-joaovsilva2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/JoaovSilva2005">
+    <img src="https://img.shields.io/badge/GitHub-JoaovSilva2005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovsilva2005&show_icons=true&locale=en&layout=compact" alt="joaovsilva2005" /></p>
+- I am currently building portfolio projects with React Native, React, TypeScript, Node.js, Firebase, Prisma, Java, and Python.
+- I enjoy creating systems that solve real workflows, such as help desk platforms, marketplaces, stock control, and academic management tools.
+- I am improving my skills in full-stack development, mobile apps, APIs, databases, software architecture, and security fundamentals.
+- I am open to internship opportunities, junior developer roles, and beginner-friendly open source collaboration.
+
+## Featured Projects
+
+| Project | Stack | What it shows |
+| --- | --- | --- |
+| [TechFix Marketplace](https://github.com/JoaovSilva2005/techfix) | React Native, Expo, TypeScript, Firebase, TanStack Query | Mobile marketplace with account approval, service requests, proposals, scheduling, reviews, notifications, and simulated payments. |
+| [HelpDesk-Pro](https://github.com/JoaovSilva2005/HelpDesk-Pro) | React, TypeScript, Node.js, Express, Prisma, SQLite | Full-stack help desk with JWT auth, user roles, tickets, knowledge base, dashboards, reports, and backend tests. |
+| [StorageSystem](https://github.com/JoaovSilva2005/StorageSystem) | React, JavaScript, Node.js, Express, MySQL | Inventory management system with product registration, stock movements, and history. |
+| [Ludo Project](https://github.com/JoaovSilva2005/ludo-project) | C | Console game with board rendering, turns, dice logic, and Windows terminal interaction. |
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaovSilva2005&theme=github" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaovSilva2005&theme=github" alt="Repositories by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaovSilva2005&theme=github" alt="GitHub stats" />
+</p>
+
+## Current Focus
+
+- Strengthening React Native and TypeScript through TechFix Marketplace.
+- Improving full-stack architecture with authentication, roles, dashboards, APIs, and persistence.
+- Preparing my GitHub portfolio for internship and junior developer opportunities.
