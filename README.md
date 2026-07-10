@@ -21,6 +21,7 @@
 
 | Project | Stack | What it shows |
 | --- | --- | --- |
+| [AI Tech Job Matcher](https://github.com/JoaovSilva2005/ai-tech-job-matcher) | TypeScript, Playwright, Express, ExcelJS, Gemini API | QA-focused job matching app with real public sources, resume analysis, data validation, API and browser E2E tests, source health checks, and auditable Excel reports. |
 | [TechFix Marketplace](https://github.com/JoaovSilva2005/techfix) | React Native, Expo, TypeScript, Firebase, TanStack Query | Mobile marketplace with account approval, service requests, proposals, scheduling, reviews, notifications, and simulated payments. |
 | [HelpDesk-Pro](https://github.com/JoaovSilva2005/HelpDesk-Pro) | React, TypeScript, Node.js, Express, Prisma, SQLite | Full-stack help desk with JWT auth, user roles, tickets, knowledge base, dashboards, reports, and backend tests. |
 | [StorageSystem](https://github.com/JoaovSilva2005/StorageSystem) | React, JavaScript, Node.js, Express, MySQL | Inventory management system with product registration, stock movements, and history. |
